@@ -1,8 +1,8 @@
 TheBeautyOfDesignPatterns
 =========================
-+ [The beauty of design patterns](http://www.cnblogs.com/gaochundong/p/design_patterns.html)
+[The beauty of design patterns](http://www.cnblogs.com/gaochundong/p/design_patterns.html)
 
-+ [Creational Patterns](http://www.cnblogs.com/gaochundong/p/design_pattern_creational_patterns.html)
+[Creational Patterns](http://www.cnblogs.com/gaochundong/p/design_pattern_creational_patterns.html)
 ---------------------
 + [Abstract Factory](http://www.cnblogs.com/gaochundong/p/design_pattern_abstract_factory.html)
 + [Builder](http://www.cnblogs.com/gaochundong/p/design_pattern_builder.html)
@@ -10,7 +10,7 @@ TheBeautyOfDesignPatterns
 + [Prototype](http://www.cnblogs.com/gaochundong/p/design_pattern_prototype.html)
 + [Singleton](http://www.cnblogs.com/gaochundong/p/design_pattern_singleton.html)
 
-+ [Structural Patterns](http://www.cnblogs.com/gaochundong/p/design_pattern_structural_patterns.html)
+[Structural Patterns](http://www.cnblogs.com/gaochundong/p/design_pattern_structural_patterns.html)
 ---------------------
 + [Adapter](http://www.cnblogs.com/gaochundong/p/design_pattern_adapter.html)
 + [Bridge](http://www.cnblogs.com/gaochundong/p/design_pattern_bridge.html)
@@ -20,7 +20,7 @@ TheBeautyOfDesignPatterns
 + [Flyweight](http://www.cnblogs.com/gaochundong/p/design_pattern_flyweight.html)
 + [Proxy](http://www.cnblogs.com/gaochundong/p/design_pattern_proxy.html)
 
-+ [Behavioral Patterns](http://www.cnblogs.com/gaochundong/p/design_pattern_behavioral_patterns.html)
+[Behavioral Patterns](http://www.cnblogs.com/gaochundong/p/design_pattern_behavioral_patterns.html)
 ---------------------
 + [Chain of Responsibility](http://www.cnblogs.com/gaochundong/p/design_pattern_chain_of_responsibility.html)
 + [Command](http://www.cnblogs.com/gaochundong/p/design_pattern_command.html)
